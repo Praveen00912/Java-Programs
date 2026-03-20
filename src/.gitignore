@@ -4,3 +4,58 @@
 target/
 bin/
 .DS_Store
+
+
+Name Conventitions:
+
+1.Camel case: Firstword starts with lowercase, every new word starts with capital letter
+variables and methods
+studentAge;
+
+2. snake case: All words are lowercase separated by underscores.
+eg:  student_age
+
+3. pascal case: The starting letter of the word is in the uppercase
+eg: Calculator, EmployeeDetails, BankAccount
+Class names
+
+Upper snake
+
+
+
+
+
+eg: MAX_AGE;
+double PI=3.1456;
+
+Classes: Pascal case
+Variables and methods: camelCase
+Constraits : UPPER_SNAKE_CASE
+packages: lowercases eg: codegnan; or com.codegnan or com.codegnan.students; com.codegnan.students.javastudents;
+
+
+Variable names must be meaningful.
+eg: int studentAge;
+double productPrice;
+
+int a;
+int num;
+int student_age; // studentAge;
+
+
+Constraits:
+final keywords is used to declare the constants.
+
+Syntax:
+final datatype CONSTANT_NAME=value;
+final double
+
+
+
+
+
+
+
+
+// Git is a version control system
+// repository means storage : a place to store the data in cloud/servers
